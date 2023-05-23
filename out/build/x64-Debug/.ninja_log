@@ -1,0 +1,14 @@
+# ninja log v5
+4	114	7065645445153725	build.ninja	1bf82a0a2fb9c783
+6	979	7065645337364107	CMakeFiles/CMake_Homework_N2.dir/RectangularTriangle.cpp.obj	4a1a55a4dbb2a28c
+10	966	7065645337334196	CMakeFiles/CMake_Homework_N2.dir/Quadrangle.cpp.obj	cfa1fb0b1b194740
+1	969	7065645337304275	CMakeFiles/CMake_Homework_N2.dir/main.cpp.obj	6badedbb5aa0bb03
+9	973	7065645337314248	CMakeFiles/CMake_Homework_N2.dir/EqualateralTriangle.cpp.obj	646ea928bd590aa
+12	970	7065645337234459	CMakeFiles/CMake_Homework_N2.dir/Parallelogram.cpp.obj	7041dc6458a194be
+4	972	7065645337184596	CMakeFiles/CMake_Homework_N2.dir/Triangle.cpp.obj	d2857cb80777103d
+3	973	7065645337413979	CMakeFiles/CMake_Homework_N2.dir/FigureClass.cpp.obj	446dbe58faf4c156
+7	973	7065645337324219	CMakeFiles/CMake_Homework_N2.dir/IsoscelesTriangle.cpp.obj	e1036c0f19158473
+967	1558	7065645343298238	CMakeFiles/CMake_Homework_N2.dir/Rectangle.cpp.obj	c320260a3f377f68
+969	1563	7065645343358074	CMakeFiles/CMake_Homework_N2.dir/Rhomb.cpp.obj	1258b0e0e855c40e
+971	1588	7065645343627357	CMakeFiles/CMake_Homework_N2.dir/Square.cpp.obj	3b7163038364813
+1588	2016	7065645347747186	CMake_Homework_N2.exe	93e113dc5fa4170

@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Рабочий стол/CMake_N2/out/build/x64-Debug/CMakeFiles/CMake_Homework_N2.dir
+C:/Users/User/OneDrive/Рабочий стол/CMake_N2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Рабочий стол/CMake_N2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
